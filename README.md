@@ -1,6 +1,6 @@
 # FrameNet Video Utils for JavaScript
 
-![NPM Version](https://img.shields.io/npm/v/framenet-video-utils) ![License](https://img.shields.io/npm/l/framenet-video-utils)
+![NPM Version](https://img.shields.io/npm/v/framenet-video-utils?style=flat-square) ![License](https://img.shields.io/npm/l/framenet-video-utils?style=flat-square)
 
 A simple JavaScript utility for getting video file details like duration, resolution, and frame rate.
 
