@@ -1,0 +1,31 @@
+{
+  "name": "framenet-video-utils",
+  "version": "1.0.0",
+  "description": "A simple JavaScript utility to get details like duration, resolution, and FPS from a video file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ruka-Surendra-Kumar-Reddy/framenet-video-utils-js.git"
+  },
+  "keywords": [
+    "video",
+    "utils",
+    "ffmpeg",
+    "ffprobe",
+    "framenet",
+    "video editing",
+    "metadata"
+  ],
+  "author": "Surendra Kumar Reddy <surendraruka514@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://www.framenet.ai",
+  "bugs": {
+    "url": "https://github.com/Ruka-Surendra-Kumar-Reddy/framenet-video-utils-js/issues"
+  },
+  "dependencies": {
+    "ffprobe-static": "^3.1.0"
+  }
+}
