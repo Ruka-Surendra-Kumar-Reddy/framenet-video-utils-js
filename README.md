@@ -29,7 +29,7 @@ npm install framenet-video-utils
 ```
 
 ## Usage
-The library exports one primary async function, getVideoDetails().
+The library exports one primary async function,  getVideoDetails().
 
 ```bash
 const { getVideoDetails } = require('framenet-video-utils');
